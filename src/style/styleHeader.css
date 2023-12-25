@@ -1,0 +1,17 @@
+.header-top {
+    background-color: black;
+  }
+  .navigation-left,
+  .navigation-right {
+    font-size: 35px;
+    color: #333;
+  }
+  .navigation-left:hover {
+    color: white;
+  }
+  .navigation-right:hover {
+    color: white;
+  }
+  .directory {
+    cursor: pointer;
+  }
